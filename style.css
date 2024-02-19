@@ -1,0 +1,7 @@
+@font-face {
+    font-family: 'Times New Roman', Times, serif;
+    src: url(fonts/times/times.ttf);
+    src: url(fonts/times/timesbd.ttf);
+    src: url(fonts/times/timesbi.ttf);
+    src: url(fonts/times/timesi.ttf);
+}
